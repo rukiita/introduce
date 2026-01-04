@@ -32,7 +32,7 @@ We specifically tested the manipulation and persistence of query parameters, alo
 
 ### Short Report
 
-[1209](https://github.com/user-attachments/assets/1da88115-4c3e-4e39-948a-46ecafc46c6f)
+![Demo GIF](https://github.com/user-attachments/assets/1da88115-4c3e-4e39-948a-46ecafc46c6f)
 
 >
 
